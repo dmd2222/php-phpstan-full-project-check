@@ -1,0 +1,1 @@
+# php-phpstan-full-project-check
